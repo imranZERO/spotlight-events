@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Live Concerts and Music Festivals",
+    "thumbnail": "https://i.ibb.co/FzG30G1/1s.jpg",
+    "image": "https://i.ibb.co/jJDqfQV/1.jpg",
+    "price": 350.00,
+    "description": "Experience the magic of live music with top artists and bands at our concerts and music festivals."
+  },
+  {
+    "id": 2,
+    "title": "Theatrical Performances and Dramatic Arts",
+    "thumbnail": "https://i.ibb.co/sF6V2s0/2s.jpg",
+    "image": "https://i.ibb.co/4NdHWVv/2.jpg",
+    "price": 420.00,
+    "description": "Immerse yourself in the world of drama, dance, and the performing arts with our captivating theater productions."
+  },
+  {
+    "id": 3,
+    "title": "Exclusive Film Screenings and Premieres",
+    "thumbnail": "https://i.ibb.co/F79kYtV/3s.jpg",
+    "image": "https://i.ibb.co/5TJsTwZ/3.jpg",
+    "price": 270.00,
+    "description": "Be the first to watch the latest blockbuster movies at our exclusive film screenings and premieres."
+  },
+  {
+    "id": 4,
+    "title": "Music Workshops",
+    "thumbnail": "https://i.ibb.co/0Kb6v9w/4s.jpg",
+    "image": "https://i.ibb.co/ZgXXfJq/4.jpg",
+    "price": 290.00,
+    "description": "Learn and create music with our interactive music workshops for all skill levels."
+  },
+  {
+    "id": 5,
+    "title": "Dance Performances",
+    "thumbnail": "https://i.ibb.co/KGnL3Fq/5s.jpg",
+    "image": "https://i.ibb.co/BwdhL8w/5.jpg",
+    "price": 400.00,
+    "description": "Enjoy breathtaking dance performances that showcase a variety of dance styles."
+  },
+  {
+    "id": 6,
+    "title": "Art Exhibitions",
+    "thumbnail": "https://i.ibb.co/vDPMgbV/6s.jpg",
+    "image": "https://i.ibb.co/YbnwrZc/6.jpg",
+    "price": 480.00,
+    "description": "Explore the world of visual arts with our inspiring art exhibitions featuring renowned and emerging artists."
+  }
+]
